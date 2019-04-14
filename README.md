@@ -1,4 +1,4 @@
-SSF2: Community Edition
+Super Smash Flash Beta: 20XX
 ========================================================================
 
 Navigation: Download (public DL coming soon) | **Server repository** 
@@ -17,9 +17,11 @@ Engine Changes
 ------------------------------------------------------------------------
 -  The title screen has been changed, and now includes a link to the Smash Republic discord
 -  The credits menu now includes resources for competitive and modding SSF2
--  Certain stages now have alternate skins/music , look below at "Stage Changes" for more.
+-  Certain stages now have alternate skins/music , look below at "Stage Changes" for more
+-  Characters now have more character alts, such as black wario and pink falco
+-  In the character select screen, you can create your own custom character color alts. You can do this by using the C-Stick, C-LEFT and C-RIGHT cycle through which value you're editing (hue > saturation > brightness > contrast), and C-UP and C-DOWN change the value up and down respectively
 -  There's a toggle in the stage select screen specifically for "Stage Alts"
--  Toggling "player display" in the rules menu will change the character name in the HUD to be the player's names. (credit: Happyfrozenfire)
+-  Playing in online mode will change the character name in the HUD to be the player's names. (credit: Happyfrozenfire)
 -  After a match, vs or online, a replay saving prompt will automatically appear so you never miss saving a replay
 -  Debug/hitbox menu in offline modes, including replays
 -  Debug/hitbox menu includes: Speed Up (Twice as fast), Slow Down (Half speed), 1 FPS, and Hitbox toggle
@@ -59,4 +61,6 @@ Owners
 
 Contributors 
 
-- Happyfrozenfire - Initial stage alt concept, Characer name to player name conversion concept
+- Happyfrozenfire - In-game color creator, initial stage alt concept, Characer name to player name conversion concept
+- KingAteryu, Mikoto & SSF2 Mods staff - aesthetic contributions and mod hosting
+- SSF2 Studios & Bowler - Video coverage (coming soon!!!)
