@@ -1,8 +1,10 @@
 Super Smash Flash Beta: 20XX
 ========================================================================
 
-Navigation: Download (public DL coming soon) | **Server repository** 
-  
+Navigation: [Download][1] | [Download (Portable)][2] | **Server repository** 
+ 
+  [1]: https://github.com/AntiSmoker/20xxreleases/releases/download/v1.0/SSF20XXBeta.exe
+  [2]: https://github.com/AntiSmoker/20xxreleases/releases/download/v1.0/SSF20XXBeta.zip
 Introduction
 ------------------------------------------------------------------------
 
